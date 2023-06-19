@@ -1,0 +1,2 @@
+demo file
+ This is the new content.
